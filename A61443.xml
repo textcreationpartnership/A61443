@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A seasonable and necessary admonition to the gentlemen of the First Society, for Reformation of Manners Concerning reformation of themselves, of the Bishops, and of the House of Commons.</title>
+            <author>Stephens, Edward, d. 1706.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61443</idno>
+            <idno type="STC">Wing S5439</idno>
+            <idno type="STC">ESTC R222012</idno>
+            <idno type="EEBO-CITATION">99833251</idno>
+            <idno type="PROQUEST">99833251</idno>
+            <idno type="VID">37726</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61443)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37726)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2063:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A seasonable and necessary admonition to the gentlemen of the First Society, for Reformation of Manners Concerning reformation of themselves, of the Bishops, and of the House of Commons.</title>
+                  <author>Stephens, Edward, d. 1706.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1700?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>By Edward Stephens cf. Wing.</note>
+                  <note>Imperfect; with print show-through slightly affecting legibility.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Quakers --  Early works to 1800.</term>
+               <term>Manners and customs --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:37726:1" rendition="simple:additions"/>
+            <head>A Seaſonable and Neceſſary ADMONITION TO THE Gentlemen OF THE FIRST SOCIETY, FOR REFORMATION of MANNERS.</head>
+            <head type="sub">Concerning Reformation of Themſelves, of the Biſhops, and of the Houſe of Commons.</head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>THO' I am a Stranger to many of you, and come not to your Meetings, yet am I a Sincere Well<g ref="char:EOLhyphen"/>wiſher to the Work you are ingaged in, and to your ſelves for it: And tho' I was ſoon call'd away, for a better Service, I hope (as good as that is) and ſuch as may Crown it at laſt with a Heavenly Bleſſing; yet have I never ceaſed, as occaſion was offered, to contribute what I could to promote it. And for that purpoſe do I now write this. I chanced lately to look into a Book, wherein I obſerved that you had not only increaſed your <hi>Numbers,</hi> but alſo inlarged your <hi>Stile</hi> and <hi>Title,</hi> and made it more Comprehenſive, not only for <hi>Execution of Laws,</hi> and <hi>Suppreſſion of Vice,</hi> but for <hi>Reformation of Manners,</hi> and a <hi>National Reformation.</hi> Which I do not diſlike provided you <hi>make good the <g ref="char:V">Ʋ</g>ndertaking.</hi> For <hi>Suppreſſion of Vice</hi> is but like Weeding the Ground. But <hi>Reformation of Manners</hi> require the Planting of Virtue. And
+<pb n="2" facs="tcp:37726:2"/>this I hope you will be careful to do firſt at home amongſt your ſelves, and eſpecially in your peculiar I Engagment, and make your <hi>Real Virtue Exemplary</hi> to the Nation, by a true Magnanimity, worthy of <hi>Engliſhmen,</hi> worthy of <hi>Gentle<g ref="char:EOLhyphen"/>men,</hi> worthy of <hi>Christians.</hi> Nothing under God doth more animate to true and Heroic Vertue, than ſuch Examples. But if when occaſions require <hi>Generous Actions,</hi> you think to cover <hi>Lazineſs and Timidity</hi> with <hi>Prudential Excuſes;</hi> and in Printed Books with <hi>Pompous Recommendations, M<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gn<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſto Bugbears</hi> to re<g ref="char:EOLhyphen"/>preſent as Couragious thoſe, who did not fly, tho' they did not dare to aſſault the Monſter, or Second thoſe that did, as if the Deſign was to cheat an Impudent vicious Generation into a Reformation, as Mothers ſometimes fright their Children; or to ſeek for the <hi>Applauſe</hi> of real Virtue by ſuch Actions, as have little of true Virtue in them: This would be rather to animate Vice, when the Trick is underſtood, and to <hi>corrupt your ſelves with Vanity,</hi> than to reform the Nation. And if ſuch a Man as St. <hi>Paul</hi> was careful leaſt while he Preach'd to others himſelf ſhould become a Caſtaway, you cannot think ſuch a Caution and <hi>Admonition</hi> impertinent or needleſs. And that you may ſee by proper Experiment that it is not, I ſhall acquaint you with that, which, tho' ſome of you know very well, I preſume moſt do not, notwithſtanding your Printed Account of the Societies, <hi>&amp;c.</hi> [by thoſe, who knew it very well.]</p>
+            <p>This work was in a hopeful way long ſince, to have made a greater Progreſs throughout the whole Nation, long before this than it hath yet done at this Day, had not the Wickedneſs of ſome Corrupt Judges checkt it, and the <hi>Treacherous Prudentials</hi> of ſome pretending Zeal or Good Will to it, neglected that Opportunity, which an Honeſt Proſecution might have turn'd to its much <hi>Greater Advancement.</hi> While the late Queen was living, certain Gentlemen of the Society were queſtion'd for Writing a Book, intituled, <hi>The Beginning and Progreſs of a Needful and Hopeful Reformation;</hi> and for what they had done in that good Work, before the then Lords Commiſſioners of the Great Seal, whereof two were <hi>Members</hi> of the Houſe of Commons, and one of them <hi>Speaker.</hi> Whereupon the Author of the Book preſently ſent them a Letter that he wrote it, and would be ready to anſwer for it when they pleaſed. So that when they appeared, they were diſcharged of that, but queſtion'd for the reſt, and, tho' in the Preſence of no leſs than <hi>Seven of
+<pb n="3" facs="tcp:37726:2"/>the Reverend Biſhops,</hi> who came on purpoſe, ſo ill treated by the two Commiſſioners <hi>Members of Parliament,</hi> as was thought good Cauſe by the Author of the ſaid Book to <hi>Petition</hi> the Houſe againſt them, <hi>for Diſcouraging the Execution of the Laws, and Con<g ref="char:EOLhyphen"/>tempt of her Majeſties Authority.</hi> And having drawn a <hi>Petition,</hi> adviſed with Counſel upon the Matter of Law, and with divers of thoſe Biſhops, and other Perſons of Quality, who were pre<g ref="char:EOLhyphen"/>ſent at the Hearing, concerning the Matter of Fact, he put it into the Hand of a Member, whom he knew obliged to pre<g ref="char:EOLhyphen"/>ſent it: which after many Put-offs, was at laſt done, but ſo timed, that there were then but few Members in the Houſe, and thoſe ſuch as Voted it ſhould not be read. Which was another Fault not leſs than the Former, being a <hi>Denial,</hi> without any Colour of Cauſe, <hi>of a Fundamental Right of all the Commons of</hi> England. For this he firſt complained at the next Publick Seſſions of the County, for which that Member ſerv'd; and ſoon after, at the next Seſſions at the <hi>Old Baily,</hi> laid the whole Cauſe before the Judges, and the Lord Major and Aldermen, as chief of two of the moſt conſiderable Bodies of the Commons of <hi>England:</hi> And the Papers were left in the hand of Sir <hi>Richard Levet,</hi> then Sheriff, and now Lord Major of the City of <hi>London.</hi>
+            </p>
+            <p>In this Caſe you may <hi>obſerve,</hi> firſt how great an Opportunity and Advantage was neglected, in not proſecuting two ſuch Great Crimes ſo teſtified by ſuch and ſo many Witneſſes, and what good Effect that muſt have had throughout the whole Nation, for the Promotion of that Good Work? And ſecondly, What ill Effect it had, by diſcouraging ſuch as were well affected, and animating ſuch as were ill affected to it? And thirdly, I Need not tell you who were, and who were moſt, faulty in this Caſe; Certainly they, who were moſt obliged, whether by ſpecial Engagement, or by their own Calling or Profeſſion, and had moſt advantage for it, and yet neglected it. Nor will I inter<g ref="char:EOLhyphen"/>poſe my Opinion, what farther uſe you are to make of it; but leave that to your own Conſideration and Virtue. You muſt look to your own Obligations. It is not a light matter to engage in the Service of God. When you are in, you muſt go on without fearing the Faces of Men; and have a care you do not the Work of God negligently. If you look at a <hi>National Reformation,</hi> you muſt look farther and deeper than that <hi>Su<g ref="char:EOLhyphen"/>perficial Reformation,</hi> of Suppreſſing Vice by Execution of Human Laws; tho' that be a commendable Undertaking. If you will go
+<pb n="4" facs="tcp:37726:3"/>no farther than that, you muſt not arrogate to your ſelves the Honour of that, which belongs not to you, and is out of your Province. But as you are <hi>Gentlemen,</hi> and profeſs your ſelves <hi>Christians,</hi> I muſt hope you will ſhew your ſelves ſuch, make good your Word and Engagement ſo publickly declar'd, and know and follow your Leader. It was I, (ſo Providence order'd it) who, after I had my <hi>Quietus</hi> from another Service, began your Society, and made Choice of the Firſt Perſons; publickly aſſerted their Cauſe, and defended their Actions, when they were firſt queſtioned; and had they followed me, had brought it, by the Bleſſing of God, to a farther Progreſs than yet hath been made. But when I ſaw ſome, whom I had introduced, ſet up with Formality, Affectation and Vanity, (tho' for all theſe Infirmities they might be uſeful, yet) in ſo ſerious a Work I could not bear it. But the All-wiſe Providence made uſe of that to take me off, when it was begun and ſetled, for a bet<g ref="char:EOLhyphen"/>ter Service. And to that upon peruſal of the <hi>Title and Appro<g ref="char:EOLhyphen"/>bation</hi> of your Book I now Invite you. You are ingaged, and cannot go back: That would be not only your Shame, but Sin againſt your own Souls. Either follow, or join with me, or ſhew me ſome Reaſons to the contrary; or go on your ſelves without me, ſo you do but do it effectually, and make good your Undertakings.</p>
+            <p>The <hi>Neceſſity of a more effectual Reformation</hi> appears in your own Book, and what Order amongſt us it is, that ſhould need it leaſt, but does need it moſt, as one of them has ingeniouſly con<g ref="char:EOLhyphen"/>feſs'd. How elſe comes it to paſs, that if the Work be ſo good, of five and twenty Reverend Biſhops, you could prevail but with five to approve it? and thoſe none of the Greateſt or Neareſt, but of the Meaneſt and Remoteſt; You muſt go to <hi>Bath,</hi> to <hi>Briſtol,</hi> to <hi>Glouceſter,</hi> to <hi>Wales</hi> and <hi>Cheſter,</hi> for Ap<g ref="char:EOLhyphen"/>probations, and amongſt thoſe to ſuch as notoriouſly need Re<g ref="char:EOLhyphen"/>formation themſelves, for taking and holding Charges, and of the higheſt Nature, the Care of Souls, ſo inconſiſtent. And if ſuch Men as they be guilty of ſuch Faults, What a <hi>Reformation</hi> is that which brings forth ſuch Fruits! Certainly it ſelf ſtands in great need of <hi>Reformation;</hi> and to the very bottom: Their very Principles are faulty. To ſhew and demonſtrate this, I have begun, <hi>&amp;c.</hi>
+            </p>
+            <p>This was dated <hi>Nov.</hi> 4. 1699. and ſent to your Meeting in <hi>Thread<g ref="char:EOLhyphen"/>needle-Street,</hi> but ſoon came into the Hands of one concerned to
+<pb n="5" facs="tcp:37726:3"/>conceil it. What followed is only concerning ſome Papers left in the Hand of Mr. <hi>Ra. Hartley,</hi> who might properly be call'd the Seniour of your Society, was the firſt Actor in Commiſſion of the Peace in it, the firſt and greateſt Sufferer of it, and even from ſuch as ought to have treated him otherwiſe; and has deſerved as well in the Service as any Man in it. The Papers were what was begun for a more Fundamental Reformation, and have been much inlarged ſince; ſo that what is there ſaid, is needleſs now to be repeated. But this is now Publiſhed upon this ſpecial Oc<g ref="char:EOLhyphen"/>caſion: It relates what did concern the Beginners of your Society and the Seven Biſhops, and doth now concern your whole Society, and the whole Order of Biſhops, to redeem the Op<g ref="char:EOLhyphen"/>portunity, which was then inexcuſably neglected.</p>
+            <p>There hath ſince that Letter been <hi>another ſuch Opportunity neglected,</hi> if there was any Member of your Society in the laſt Houſe of Commons, as you know there was; and I know there was thoſe, who knew what was written to Sir <hi>R. C.</hi> to be true. And where was your Zeal for Reformation, that none of you all ſhewed more concern in ſuch a Caſe as that? But it is now again revived by a late Printed Paper concerning the <hi>Corruption and Impiety of the Late Houſe of Commons,</hi> if it be not alſo prudentially neglected. Here you have an Opportunity to demonſtrate <hi>the Reality of your Zeal</hi> for the Honour of God, and of your Concern for the Service of your Country. And you are like to have one, who was one of the firſt, and prin<g ref="char:EOLhyphen"/>cipal Actors next Mr. <hi>Hartley,</hi> of the Society, a Member of the next Parliament, and to ſerve for the ſame County, for which he ſerved, who was concern'd in that Violation of that Fundamental Right of all the Commons of <hi>England,</hi> and for which two of the Principal Criminals concern'd in that Charge of Impiety, did ſerve the laſt and precedent Parliament. So that it is hard to ſay, how a Man can have more ſpecial Ob<g ref="char:EOLhyphen"/>ligations upon him for any Service, beſides thoſe General Obli<g ref="char:EOLhyphen"/>gations of Profeſſion of Religion, Love of his Country, and the Truſt repoſed in him.</p>
+            <p>But tho' he be ſo ſpecially obliged, yet I conceive <hi>the whole Society concern'd;</hi> and 'tis very likely divers Members of it more ſpecially by former neglect of Duty. Now is the time to appear in this Cauſe, and ſhew your ſelves Men and Chriſtians. If you, who make ſuch Pretences for a National Reformation, ſhew your ſelves <hi>Triſters</hi> with God and Man upon another ſuch
+<pb n="6" facs="tcp:37726:4"/>Occaſion, what can you expect but that God and Man ſhould ſpew you out of the Nation. I ſee ſome of you, who ſet up for the Glory of Reforming others, ſo far from Reforming themſelves, that they are rather ſunk deeper into that empty Formality, Affectation and Vanity, which I could not indure in ſo ſerious a Work at the firſt, have often reproved in private, and, ſince that could not prevail, think neceſſary to be a little check'd by a more publick Admonition: but in hope of Amend<g ref="char:EOLhyphen"/>ment upon this, ſhall ſay no more at this time. I wiſh you all well, and ſhould be ready to ſerve you all, or any of you in the Work you are ingaged in, if there be occaſion.</p>
+            <p>It is a Work, which requires very ſerious Application, and Good Reſolution. <hi>The Root of all our <g ref="char:V">Ʋ</g>nhappineſs,</hi> which moſt needs a Reformation is in the Parliament, and eſpecially in the Spiritual Lords, as they are commonly call'd, and the Houſe of Commons. I muſt be bold to ſay, I know not a more <hi>Inſignificant Body of Men</hi> upon the face of the Earth than the preſent Biſhops: Nor have they ever been much better ſince they were cow'd and diſpirited by that <hi>Beaſt,</hi> Hen. 8th, and Corrupted with Treacherous Principles by his <hi>Falſe Prophet, Cranmer.</hi> Nor can I expect ever to ſee things better till the <hi>Cranmarian Spirit,</hi> and that <hi>Curſed thing</hi> then introduced be caſt out of the Nation. It will, I verily believe, prove a continual Curſe both to Church and State to the Deſtruction of both, if it be not ſpeedily caſt out, but longer foſtred by ſuch Biſhops. And tho' <hi>the inferior Clergy</hi> make ſome Oppoſition, it ſeems to me but trifling and ſcandalous, by ſo much inſiſting upon <hi>Hu<g ref="char:EOLhyphen"/>man Principles,</hi> as if there were no better to determine the Caſe effectually; or they did not dare to aſſert them. Such is their worldly Wiſdom. Had we Biſhops of true Chriſtian Spirits, we ſhould need no Societies for Reformation of Man<g ref="char:EOLhyphen"/>ners among the Laity. But God hath raiſed up all the So<g ref="char:EOLhyphen"/>cieties, and permitted the Sects to expoſe the Unworthineſs of ſuch a Body of Biſhops. Nor can we expect better than a continual Succeſſion of Temporizing Flatteres of Princes, till what I have ſaid be done. Perhaps ſome <hi>Grub-ſtreet Scribler</hi> to get a Penny, may call this <hi>Saucineſs,</hi> and their Lordſhips, if they have no more Religion, be offended at it. But I muſt let them know, I write it purely out of Fidelity to God, and Fidelity to my Country. They know who I am, and that I am ready to demonſtrate what I ſay at any time. Let them mend their Manners,
+<pb n="7" facs="tcp:37726:4"/>be more faithful and ſerviceable to God and to their Country, and they will ſoon find I know how to imploy my ſelf better, than to find Faults, when there is no Neceſſity for it.</p>
+            <p>And for the <hi>Houſe of Commons,</hi> I muſt declare I know no greater <hi>Danger</hi> both to <hi>Religion</hi> and to the <hi>Government,</hi> than from them, unleſs their <hi>Principals,</hi> for whom they ſerve will make them more ſenſible of their Duty; make them know they are not their Maſters but their Servants, by giving them Inſtructions, and in<g ref="char:EOLhyphen"/>quiring into their Behaviour in the Houſe, and vindicate that great and neceſſary fundamental Right of every Commoner of <hi>England,</hi> to have their Petitions for juſt and proper Matters, duly and decently anſwer'd, without either rejecting their Petitions without reading, or diſcouraging them by Dominereing Commit<g ref="char:EOLhyphen"/>ments. And this is a matter your Society is ſpecially obliged to promote at this time in good earneſt. It is true, all the Com<g ref="char:EOLhyphen"/>mons of <hi>England</hi> are concern'd in it in general, but you more eſpecially, who are concern'd for your ſelves immediately, and upon that occaſion for the Service of your Country. How ſilly a thing was it to tell the World in your Book, that the <hi>Biſhop of Gloucester</hi> has been a great Encourager of your Undertaking, and writ a Vindication of it, when he was one of the Seven, who were preſent at the Hearing, and he who ſcribled that part of your Book, one of thoſe, who were queſtion'd, and yet neither they nor any of the reſt, have to this Day ever farther appeared in that Matter; and <hi>the Vindication</hi> was but built upon the Foun<g ref="char:EOLhyphen"/>dation of the Book before-mentioned, of the Beginning and Progreſs of the Reformation, and a little trick of ſome to in<g ref="char:EOLhyphen"/>groſs the Honour of this Work to themſelves; which they ſhould ſtill have injoyed, had they but better deſerved it: and yet I will not deny them the juſt Commendations of what they have done; for it is a good Work, and deſerves Encouragement.</p>
+            <p>But in the Houſe of Commons there is one great <hi>Decay of our Government,</hi> which is commonly taken notice of, but no care taken for the <hi>Repair.</hi> Many <hi>Antient Corporations,</hi> which were conſiderable heretofore, are in proceſs of time reduced to ſuch a Paucity of inconſiderable Electors, and thoſe ſo ſubject to ſome particular Perſons, that they have in Truth and Reality no Choice at all, (no more than our Dean and Chapters) ſo that it may well be queſtioned, if the Principles of the true <hi>Engliſh</hi> Government, which was founded upon true Principles of Wiſ<g ref="char:EOLhyphen"/>dom, Juſtice and Equity, be well conſider'd, whether Writs
+<pb n="8" facs="tcp:37726:5" rendition="simple:additions"/>ought to be ſent to ſuch Burroughs, and the Perſons returned by them be admited to ſit in Parliament. Beſides theſe there are divers other inconſiderable Burroughs, who have ſhewed themſelves ſo baſe and mercenary in their Elections, that they have long ſince juſtly forfeited their Right of Elections, if it were looked into; So that it may be con<g ref="char:EOLhyphen"/>ſidered, <hi>Whether it be not an Abuſe of the Government, and an Injury to all the Counties, Citys and Conſiderable Burroughs, that Writs are ſtill ſent out to them?</hi>
+            </p>
+            <p>Theſe are things fit to be conſider'd by ſuch as pretend to attempt a National Reformation: For unleſs this Root be reformed, all other At<g ref="char:EOLhyphen"/>tempts are but playing with a vain Pretence of Reformation, which is more like to render your ſelves and the Nation ridiculous at laſt, than to produce any ſolid and laſting Fruits. I do not write this to diſcourage your Proceedings, but to make you ſenſible of what you have of your ſelves undertaken, and to excite you to ſhew your ſelves Men, and perform your Engagements. Nor do I call you to any thing impracti<g ref="char:EOLhyphen"/>cable, or more than to do what you can. You are like to have ſome Members in the Houſe: You may all conſult out of the Houſe what is fit to be done by them in it: and thoſe who are not Members to act there, may do good Service by acting as Solliciters without. Do but honeſtly what you can, and I have no more to ſay. But I muſt tell you, What is the Right and Duty of every Commoner of <hi>England,</hi> upon any ſpecial Occaſion, is much more the Right and Duty of ſo many engaged in a Society for ſuch a Reformation. Any one of you may Petition the Houſe, and you may injoin any one of your own Members, who is of the Houſe, to preſent it. And you have this Encouragement that none can oppoſe it, but he will eaſily be diſcover'd to be no true Friend to his Country, but a Man of Deſign and Intereſt, and unwor<g ref="char:EOLhyphen"/>thy of a place in ſuch an Aſſembly. And beſides this, if the Number of ſuch Perſons in the Houſe be too great to obtain ſo neceſſary a Pre<g ref="char:EOLhyphen"/>paration, I ſee no reaſon why the king, with the Advice of the Judges and Privy Council, ſhould not diſſolve them, and ſummon another Parliament without any Writ to ſuch Corporations. Nor do I know any more juſt and reaſonable matter for all the Counties, Cities, and moſt conſiderable Burroughs, to Addreſs to His Majeſty for, than this; and few things more Honourable for His Reign.</p>
+            <p>Beſides the Juſtice of this, it is greatly neceſſary to prevent divers Miſchiefs and Inconveniencies to the Nation, both from Forreigners, and from Parties and Factions at home, and particularly that pernici<g ref="char:EOLhyphen"/>ous one of Republican Deiſts and Latitudinarians, ſo dangerous, no leſs to Religion, than to the Government.</p>
+            <p>Other things there are very pertinent for your Conſideration. But I ſhall not trouble you with more, till I underſtand what uſe is made of this: Which, tho' in print, I intend only for the uſe of your ſelves and ſome few others.</p>
+            <closer>
+               <signed>Your Faithful Friend and Humble Servant.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:37726:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
